@@ -1,0 +1,1 @@
+I am learning C language from Code With Harry Youtube's Channel. This repository contains the practice set of C language course.
