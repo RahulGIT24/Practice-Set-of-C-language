@@ -1,1 +1,2 @@
 I am learning C language from Code With Harry Youtube's Channel. This repository contains the practice set of C language course.
+Practice Set PDF's link - https://drive.google.com/drive/folders/1MfK8xo2ycWTehUWcSKYxD7lsGV8NOl_b?usp=sharing
