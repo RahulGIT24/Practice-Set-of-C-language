@@ -13,7 +13,7 @@ int main()
     }
     else
     {
-        printf("The %dth number in fibonacci series is %d", ask, fib(ask));
+        printf("The %d number in fibonacci series is %d", ask, fib(ask));
     }
 
     return 0;
