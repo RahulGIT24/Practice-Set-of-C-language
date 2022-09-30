@@ -1,0 +1,1 @@
+Note : Problem 5 and 7 is covered in problem 6
